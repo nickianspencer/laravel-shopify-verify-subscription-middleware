@@ -1,0 +1,15 @@
+{
+    "name": "nickianspencer/laravel-shopify-verify-subscription-middleware",
+    "type": "library",
+    "description": "Middleware for determening if the incoming user request has an app subscription.",
+    "keywords": ["shopify","laravel","middleware"],    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Spencer",
+            "email": "mrnicholasspencer@gmail.com",
+            "homepage": "http://github.com/nickianspencer",
+            "role": "Developer"
+        }
+    ],
+}
